@@ -25,7 +25,3 @@ Remplacer le menu en ligne de commande par une interface graphique customtkinter
 Module pybind11 `bibliotheque_py` fait et testé (import Python OK).
 
 GUI customtkinter `gui.py` faite (liste des livres, ajouter, emprunter, retourner, sauvegarder), reliée au C++ par `bibliotheque_py`.
-
-Lancer la GUI : compiler (voir plus haut), puis `python3 gui.py` dans `agent/`.
-
-Atelier terminé (remise Partie 3).
