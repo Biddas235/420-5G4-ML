@@ -23,4 +23,4 @@ Remplacer le menu en ligne de commande par une interface graphique customtkinter
 
 ## État actuel
 
-Phase 1 : planification. Pas encore de code Python ni de module pybind11.
+Module pybind11 `bibliotheque_py` fait et testé (import Python OK). Prochaine étape : GUI customtkinter.
